@@ -1,0 +1,6 @@
+[
+    {
+        "keys": ["ctrl+option+command+v"],
+        "command": "git_branch",
+    },
+]
